@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eric S Park]]></title><description><![CDATA[hi i'm eric]]></description><link>https://ericspark.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Jun 2019 22:20:56 GMT</lastBuildDate><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc DenisI used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://ericspark.com//darkness/</link><guid isPermaLink="false">https://ericspark.com//darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eric S Park]]></title><description><![CDATA[hi i'm eric]]></description><link>https://ericspark.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Jun 2019 14:43:36 GMT</lastBuildDate><item><title><![CDATA[Squadlog]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc DenisI used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://ericspark.com//squadlog/</link><guid isPermaLink="false">https://ericspark.com//squadlog/</guid><pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
+&lt;p&gt;This is the final render.&lt;/p&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeFcgg//xAAWEAADAAAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCHP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFhABAQEAAAAAAAAAAAAAAAAAARAg/9oACAEBAAE/ITBn/9oADAMBAAIAAwAAABDQz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQADAQEAAAAAAAAAAAAAAAEAESExUf/aAAgBAQABPxArwgAoNjd9IqYMTmy32f/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/53e9f/BLACK_II_desktop-1.webp 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/0991f/BLACK_II_desktop-1.webp 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/9d77c/BLACK_II_desktop-1.webp 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/24475/BLACK_II_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/a0703/BLACK_II_desktop-1.jpg 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/5041d/BLACK_II_desktop-1.jpg 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABwIAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABPyFf/9oADAMBAAIAAwAAABBjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAIDAQEAAAAAAAAAAAAAAAABETFRECH/2gAIAQEAAT8QhKzzGQtHff/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/53e9f/BLACK_IX_desktop-1.webp 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/0991f/BLACK_IX_desktop-1.webp 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/9d77c/BLACK_IX_desktop-1.webp 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/24475/BLACK_IX_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/a0703/BLACK_IX_desktop-1.jpg 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/5041d/BLACK_IX_desktop-1.jpg 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABw0UGUf/EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEAAT8hUwV//9oADAMBAAIAAwAAABCDD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQMf/aAAgBAQABPxBKiYUehOvef//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/53e9f/BLACK_I_desktop-1.webp 340w,
+/static/00ff909860392cb993579590db441a52/0991f/BLACK_I_desktop-1.webp 680w,
+/static/00ff909860392cb993579590db441a52/9d77c/BLACK_I_desktop-1.webp 1360w,
+/static/00ff909860392cb993579590db441a52/24475/BLACK_I_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/a0703/BLACK_I_desktop-1.jpg 340w,
+/static/00ff909860392cb993579590db441a52/5041d/BLACK_I_desktop-1.jpg 680w,
+/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg 1360w,
+/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc DenisI used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://ericspark.com//darkness/</link><guid isPermaLink="false">https://ericspark.com//darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
 &lt;p&gt;This is the final render.&lt;/p&gt;
 &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
@@ -1302,66 +1454,4 @@ chicken eggs, though the…]]></description><link>https://ericspark.com//my-seco
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting!I’m sure I’ll write a lot more interesting things in the future.Oh, and here’s a…]]></description><link>https://ericspark.com//hello-world/</link><guid isPermaLink="false">https://ericspark.com//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/41b60/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAcEAADAQACAwAAAAAAAAAAAAABESEAMUGBobH/2gAIAQEAAT8hsTTH2wx5gg2ZgM8d5JIfmMRAIe//2gAMAwEAAgADAAAAEMgv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxARwyusv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAcEAEBAAIDAQEAAAAAAAAAAAABEQAxIWGBQeH/2gAIAQEAAT8QRswtDR5g4a7R5C/RHFM3BKk6zThoVp3lEYcnjGIYES7/ACZ//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/53e9f/salty_egg.webp 340w,
-/static/8058f3f26913fea3b6a89a73344fe94a/0991f/salty_egg.webp 680w,
-/static/8058f3f26913fea3b6a89a73344fe94a/9d77c/salty_egg.webp 1360w,
-/static/8058f3f26913fea3b6a89a73344fe94a/27063/salty_egg.webp 2040w,
-/static/8058f3f26913fea3b6a89a73344fe94a/949af/salty_egg.webp 2048w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/a0703/salty_egg.jpg 340w,
-/static/8058f3f26913fea3b6a89a73344fe94a/5041d/salty_egg.jpg 680w,
-/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg 1360w,
-/static/8058f3f26913fea3b6a89a73344fe94a/25fce/salty_egg.jpg 2040w,
-/static/8058f3f26913fea3b6a89a73344fe94a/41b60/salty_egg.jpg 2048w&quot;
-          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg&quot;
-          alt=&quot;Chinese Salty Egg&quot;
-          title=&quot;&quot;
-          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item></channel></rss>
