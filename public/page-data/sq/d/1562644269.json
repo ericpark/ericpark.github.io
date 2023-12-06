@@ -1,0 +1,88 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": { "title": "Eric S Park", "description": "hi i'm eric" }
+    },
+    "smallPic": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,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",
+          "aspectRatio": 0.8133971291866029,
+          "src": "/static/935b711cd85a1f9c4e2e4ab11dda64ea/b8b34/headerbg.png",
+          "srcSet": "/static/935b711cd85a1f9c4e2e4ab11dda64ea/c972b/headerbg.png 340w,\n/static/935b711cd85a1f9c4e2e4ab11dda64ea/27625/headerbg.png 680w,\n/static/935b711cd85a1f9c4e2e4ab11dda64ea/b8b34/headerbg.png 1214w",
+          "sizes": "(max-width: 1214px) 100vw, 1214px"
+        }
+      }
+    },
+    "smallPicYellow": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAFGED5FAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAEKElEQVRIx2NISDfdzcDAUA/EDQwgQrdD7+/W5Vn3QZxyKIbIgDATE0MjnMPAwMjQyGzDvQokUm/aZvwFLOXhqTUPzJg3MeEEnxbvTCY2hma4KdoFGlfUW7T/IwxBMBr02nQgEszMjI3IEmC8dn7sLW4d3pn3D5WjapcpUnyo127w/8yOsvcRQcaLwYLGnQa/gXQlXOW8/qhDDMwMTaqVKs+BAjXotlcjqUbY6huquRzMjgjXXQnSxs7G0gTyOIjNlinyGEjXojkVHpz16q1af9VaNf6Xz3X9L+4ltQEoVgYSZ2ZihIcjSHG5WrPmf02g77nVeacysDI2Q8VBbqpgsLNWnsZuybdMPVv5goivyBatFo3/Rp1Gf8CSCNsgVjMzMzUiOwFkum4LOFzLsQY6Eq6ZsjrhO9RaeJKoRrOiAep7VLEpfQEXwYpBksBQZpBgmsDix78Piy0MNY9ONPwXtRRdyKbIOWnekoDv+9ZlvMUwEUqUSwdL7lBu0fw/eYXPP4UGdZj7KllYmBrRA7xWFRiO2h16/+TjFA4n1lqfPb+38mt9uedOLQ3xCRATgW4T8xRfp96q/RcY4H9BpkFTWy00AdQwQI2usegy+q/VrvNHu1TnFgMTFl9XZLiuMGnX/88hwd4jX67wQr9D/7+0k+RyqGKEwpwci41g46Fhx2fMN8+gXe8/nxLvRLSwRQmCekZgYuC34F8sGyizFc1UzCjkUeKcpJykeAxqC26FMkqCfap2cgsYGRkbULI/Njx7QdRdIF0FF2tt9TgvIy/QCwo7VhYm9GABs4H+qGViZKwB2lCNlhyxWcJQ1tfiefTQ+uyXqkpiPUB+KTQyqqBZtdypUOt83GSH/1Yd+j8ZuRnbgGJ1uFzMwMgIZoAU1NYXu2zduzXns0WH0X+VFq3/kvXKv7Sb1H8sXOH/59CW1P/N7R4XQBYC82QDGzBzQzMQumsRAqyszE1QwytkChUe6AITgE67/l/TbqN/up36/9SBuU2+Tv1/eI/j8xmN0dsj/c3nc3KwNUFzYAXURxjOrmUTZ+9WalD7qgTM36otmn/UmrX+K2QoXYRqrISVHhKSPF2aGmITvD215qfEW66xMFOYzoDm5DpGNsZm4wa9V9a95v+12/X+6LTp/ter1n3CxIRZtDJCMUgOVDRBEyHYi6DYK1MIl99l1mH437Bd+7tKkzLQdWr/dTt0/xu0GnwVA2ZksLcQGQR7LMvKCXSf21f2dt2uwv/66arHoYbXQMOkQSJIbIdup/Y/Q2B4GncZ/gMavICAwZBSC6WYR1YI0QhOuHIZchcNW/T+K0cr7gWHJ3oORStJcCdWSN6qEjQXWKjfqvtfNlh2Oz4DG4jENSxirD1KzWr/lQtV7iDVT6QbCE3AVcE+xnM+XJv2f15X6i6QgdDMjoIBCmWzdgo7kZQAAAAASUVORK5CYII=",
+          "aspectRatio": 0.8133971291866029,
+          "src": "/static/935b711cd85a1f9c4e2e4ab11dda64ea/579f2/headerbg.png",
+          "srcSet": "/static/935b711cd85a1f9c4e2e4ab11dda64ea/ca55a/headerbg.png 340w,\n/static/935b711cd85a1f9c4e2e4ab11dda64ea/a6360/headerbg.png 680w,\n/static/935b711cd85a1f9c4e2e4ab11dda64ea/579f2/headerbg.png 1214w",
+          "sizes": "(max-width: 1214px) 100vw, 1214px"
+        }
+      }
+    },
+    "logo": {
+      "childImageSharp": {
+        "fluid": {
+          "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAAC4jAAAuIwF4pT92AAACuElEQVRIx5WWy4uPURjH3/f3vmOMxWBBEk2jKYVEKcXsRM2UjQ3ZucY/MGbpshCxcVkMGpqU+mUnlwVpCplxKU0uUSikXMo1I43xecb3/Hrm9Lu+9Z3nOZff95zneiZJoi/LsoBpeZ6/B5/BVcYnkfuQ+8FRUGTcYXuRaVLpY7EENneDY+h94B4YZzwB9HN+b00ykDm9C5KnyN9GCi64Q9OqhDKhoB/MB3dFctnMBmPobdpbqHjD+EQwHTyXmVs0dwt9MJDp8PKEbjEQFnWzThG0y3d7tJ67S5QQRzeY0Cmys86POzTXFfnYfpPZNxFtf+3s/2f6RUVznVtvByfADHdIIfp9Ek4KRDY5BfkFjIJZunmLgfESsNTdzORicIr1M8g5PrKGVguAfDWKHEI+AA/BCONLyFVu/0LwBwyJ9KaRrWVwGDwDf13ijiEPIdcgO2JTJa+Dt27+m/35KWfb6VuNQHOWxDMjC5LgHrBIv9upeZPjIaIrffjRr+iWm5xfg3ty7etVkjcjpyI/gTv+dDOjWfp6EQ4H8xg3Ka1C/lnlDEgfVgEsD6EvuNuFxO6TScUyZhueMNePvC+/d09K7DKlZ746rZu+MPPRlyFXgF7wSweOWDqFwqjUbVKnbwS32fxD+fkafBDZrjhY1Xph6okZtyLnabwBfHeVVSqMak1iUl+M5neDdy7i1RutJ46C1aTxAfTHfr3hL5gmkn6lSu2bVXtrzK8ivgZu+DRrhMSbHIL0SC0ucW6ofdOI0JfeR3WXJEYjhPZgzVZVWVIfV41v8+lVk9BhUL0xU1LvBQetfdWVNi6yoc2vRlq/3Iz+FZxHf2Xz/hWsSSiEB6kH9Y1alTXgI369bh9GVfNSDcPqem5c+3WnjkvqHhEORE9vw1WSiqBNQdkent6GCaP/Dlr0Gi7w5obvH55qk3VO7GSAAAAAAElFTkSuQmCC",
+          "aspectRatio": 0.6238532110091743,
+          "src": "/static/8db48511082e7d29cfc793f0702bed10/40a76/logo.png",
+          "srcSet": "/static/8db48511082e7d29cfc793f0702bed10/c972b/logo.png 340w,\n/static/8db48511082e7d29cfc793f0702bed10/27625/logo.png 680w,\n/static/8db48511082e7d29cfc793f0702bed10/40a76/logo.png 1360w,\n/static/8db48511082e7d29cfc793f0702bed10/1e49b/logo.png 2040w,\n/static/8db48511082e7d29cfc793f0702bed10/7148e/logo.png 2720w,\n/static/8db48511082e7d29cfc793f0702bed10/22d6a/logo.png 4130w",
+          "sizes": "(max-width: 1360px) 100vw, 1360px"
+        }
+      }
+    },
+    "allMarkdownRemark": {
+      "edges": [
+        {
+          "node": {
+            "excerpt": "Portfolio website developed using GatsbyJS and ReactJS. Ericspark is a webapp developed using GatsbyJS. GatsbyJS with GraphQL allows for the…",
+            "fields": { "slug": "/ericspark/" },
+            "frontmatter": {
+              "date": "June 11, 2019",
+              "title": "Ericspark",
+              "description": "Behind the Personal portfolio website",
+              "thumbnail": {
+                "childImageSharp": {
+                  "fluid": {
+                    "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABh0lEQVQ4y4VTy07CUBC9P6BxZaJfZXRLTIxx5U7DVj5AXRo18gW48bEzLo0rMDRENrAqQVur0t6+C/Z455KSC7TQ5LTT6ZmTM3OnzPM8uK4L3/cRBAHCMJwgiiKZM00ThmGAuJRTOVRHoG/EZXRThahABeU45xLEy3KzwpkGyxOYdRnHscSYI54iVoXUepYnkBeHsjCGxx2JKElkPgWm6ucczrrNHCZCIBbwHBvfnTZicidm9/R4P8VnRUKZGA273+9D13VwcXiBcPnn2nh+uMPh/h4ujg7Q6/UwGo0QUsuLnNHTcRxYliXxyz14onVqUxciG+ub2N7awdvrC0LrE649KG45G3iaptA0Da1WC+JFOqbr+vIKqytraDY1+c4HAzFnf3HLBJoduet2uyIeYjhM0NYaOD87xW6phPJxWfCi8ckXtZwHdT1+vj6kc7oqJxXUarcypgVnRbNbtE7kNGu9Ua+jelOVMeVY0YEsW6fJOEwDnXdNxnNrozrJfsllGPMDuZNU9w8+AtnteoEjswAAAABJRU5ErkJggg==",
+                    "aspectRatio": 1.5454545454545454,
+                    "src": "/static/33197f4d31c556bdb638de6d343c332d/40a76/ericspark.png",
+                    "srcSet": "/static/33197f4d31c556bdb638de6d343c332d/c972b/ericspark.png 340w,\n/static/33197f4d31c556bdb638de6d343c332d/27625/ericspark.png 680w,\n/static/33197f4d31c556bdb638de6d343c332d/40a76/ericspark.png 1360w,\n/static/33197f4d31c556bdb638de6d343c332d/1e49b/ericspark.png 2040w,\n/static/33197f4d31c556bdb638de6d343c332d/640f8/ericspark.png 2632w",
+                    "sizes": "(max-width: 1360px) 100vw, 1360px"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "excerpt": "iOS and Android apps developed using Flutter. SquadLog is a shared space to hold yourself and friends accountable to a healthy and balanced…",
+            "fields": { "slug": "/squadlog/" },
+            "frontmatter": {
+              "date": "June 01, 2019",
+              "title": "SquadLog",
+              "description": "For those who always are \"starting for real on Monday\"",
+              "thumbnail": {
+                "childImageSharp": {
+                  "fluid": {
+                    "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAC4jAAAuIwF4pT92AAABg0lEQVQoz33Qy07bQBQG4HnERgKJVSOiSAg2haossqtEJba8AQ/Aki6LxKWtEkQTEdvYY+fiW2KnqLLpImNymZ+TiRORFhjp0y/N/Ocshk2nU0FAZJ4rJtPJipc6zzExPyAyT2U4HCITGSYZLcrGyjgbqfu3sDRNBQGReSJJEzykD4j+xGhEGm5jQ6URc/W26Klukqxgg8FAEBCZJ6I4Qnqf4MqtYv18C8WLD9i42sGnmwN4oYd+vw/f9xEEgerHcbzEwjAUBETmCT8McN/7jfPuTxROS1g7eo+1r2XsN76gqTdR/1WHpmvgnKPX62ExN8M8zxMEROaJruci9iOcOZcofCtj/biEdydF7NU+o95soFatwbRMtcB1XSzmZlin0xEEROaJVruFsBvgzLpE8fsutmsVbP74iMr1IUzbgmPbsEm73f4PowdhzwvyOcd2JLe51G1D6txQafA76TjO0r8zM8w0zYzgNdy0lizyVneG6br+l4zI40vo8+e0OXWnaa96AhKPycapqsStAAAAAElFTkSuQmCC",
+                    "aspectRatio": 2.0481927710843375,
+                    "src": "/static/798b575dfe5daac64939c44162a531f9/a8378/squadlog.png",
+                    "srcSet": "/static/798b575dfe5daac64939c44162a531f9/c972b/squadlog.png 340w,\n/static/798b575dfe5daac64939c44162a531f9/27625/squadlog.png 680w,\n/static/798b575dfe5daac64939c44162a531f9/a8378/squadlog.png 1024w",
+                    "sizes": "(max-width: 1024px) 100vw, 1024px"
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
