@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eric S Park]]></title><description><![CDATA[hi i'm eric]]></description><link>https://ericspark.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Jun 2019 02:15:46 GMT</lastBuildDate><item><title><![CDATA[Ericspark]]></title><description><![CDATA[Portfolio website developed using GatsbyJS and ReactJS.Ericspark is a webapp developed using GatsbyJS. GatsbyJS with GraphQL allows for the…]]></description><link>https://ericspark.com//ericspark/</link><guid isPermaLink="false">https://ericspark.com//ericspark/</guid><pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Portfolio website developed using GatsbyJS and ReactJS.&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ericspark.com/&quot;&gt;Ericspark&lt;/a&gt; is a webapp developed using GatsbyJS. GatsbyJS with GraphQL allows for the web application to be deployed as a static website. This website was built using the &lt;a href=&quot;https://www.gatsbyjs.org/starters/ImedAdel/gatsby-london/&quot;&gt;gatsby-london&lt;/a&gt; starter template hosted on Github Pages.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[SquadLog]]></title><description><![CDATA[iOS and Android apps developed using Flutter.SquadLog is a shared space to hold yourself and friends accountable to a healthy and balanced…]]></description><link>https://ericspark.com//squadlog/</link><guid isPermaLink="false">https://ericspark.com//squadlog/</guid><pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;iOS and Android apps developed using Flutter.&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Eric S Park]]></title><description><![CDATA[hi i'm eric]]></description><link>https://ericspark.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Dec 2023 10:36:10 GMT</lastBuildDate><item><title><![CDATA[Ericspark]]></title><description><![CDATA[Portfolio website developed using GatsbyJS and ReactJS. Ericspark is a webapp developed using GatsbyJS. GatsbyJS with GraphQL allows for the…]]></description><link>https://ericspark.com/ericspark/</link><guid isPermaLink="false">https://ericspark.com/ericspark/</guid><pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Portfolio website developed using GatsbyJS and ReactJS.&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ericspark.com/&quot;&gt;Ericspark&lt;/a&gt; is a webapp developed using GatsbyJS. GatsbyJS with GraphQL allows for the web application to be deployed as a static website. This website was built using the &lt;a href=&quot;https://www.gatsbyjs.org/starters/ImedAdel/gatsby-london/&quot;&gt;gatsby-london&lt;/a&gt; starter template hosted on Github Pages.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[SquadLog]]></title><description><![CDATA[iOS and Android apps developed using Flutter. SquadLog is a shared space to hold yourself and friends accountable to a healthy and balanced…]]></description><link>https://ericspark.com/squadlog/</link><guid isPermaLink="false">https://ericspark.com/squadlog/</guid><pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;iOS and Android apps developed using Flutter.&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.squadlopapp.com/&quot;&gt;SquadLog&lt;/a&gt; is a shared space to hold yourself and friends accountable to a healthy and balanced lifestyle. The app makes it easy for you to log your daily exercise, meals, and what you ‘passed up’ so that it fits into your daily routine while also providing the accountability you need to achieve your goals.&lt;/p&gt;
 &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/f935e/squadlogFeature.png&quot;
+    href=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/2faef/squadlogFeature.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -17,30 +17,30 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 48.828125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAC4jAAAuIwF4pT92AAACO0lEQVQoz32Sy2sTURTG589xaTfiym7cC6Ira1Ws4sZawSIpBCNtAy5E6K7U4k5X4kJwJW3TtEk0j5k4ySTzStIkzeThTJLGyWRicj/vvbTFVS/8OHPu/Th8Z84RCCGYTqeEgouYTCa46LB3phNGoxF8b0QoOMPzPAyHw3Nc1+XiyF4EgcAKQqEQXlOCwSDC62HUa3X4vs91Qq/XQ8tpEwqNLY7T7YLdM/r9Ps0dDPsuVj++waVXVzCzNouZ9VlcXruGq6vXsZPYhed6sG0bQq1Zx+LPIFk4XMbj+Es8SQSQOcqibbVRP66jWq2i2WrCqjbw+ddXbNU/YUPZxlt5E+8KW9jQtpFUUrA7NizLglA6LuP+3nNyY3MOt788wt0fSzgoxpGTZEhZCfl8HrVaDSWzhJSYxjf9O0yrDGZk7I8xOBlAURQ0Gg2uE/QjAw8PX5Cb7+/h1ocHmI88w34hhlQiiYyY4Q6rtSpMw0QsHcfKThhimXbQ78AbebTgCSRJ4sUqlQqEoqliIbZM7kSfYi66iPnoEqLUYUkzoWoqDMPgQuaUMaJDc/+4dHgen2yn9xtiVkS5XIZpmhBUXUNEOSC7SpSzR8lrCjF0g+i6TjRNI7QokWWZ0NYIc0SHRRh0ssR2bIiSeK4VVJW6KBow/0MtFlEoFFA8jUyTzWb5vxoMBqwYX6fxeAzHcUgmneEaphVyudxYzsk+Rz6FftN7Dstpq346nWb5lO0o3TdCI6E7TLp0xZLJ5N8z7T9YP7gEmccgDQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 48.8235294117647%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAC4jAAAuIwF4pT92AAACPUlEQVQoz32Sy2sTURjF5y9Sulbp3o2LUsWFVKFgcWW31qYRK4KvblSoAXGjoghWuglSay2hGNNkkpk8ZjKTpEmmTdJkMhmTeSXpPb33KkUXOvDjMPccDh/3fsLR0REo5Lf+k/F4jP99zGc5wfM8+J5PAi9A4Pkcdua67gmO42A0GkEraggvhREKLSEcDnMWFm4juZvkhc7AgdDr9XDYbZNmt4VW9xBNswXTMmH3bDDPtm10rS58x8eHLx9x6s4ZnL57DhP3JjGxPEn/z+L52gsE1De7Ji1sW7iffkpmYjdx4/stzOzMY137DLPRgbFvoFarYf/gAGargw3xKyL1t3imvMLj7CpWchGslCKIyhvoNDtoNBsQOgdtLCYfkPMvL+PSm1lMxa7jff4TVFlBSkwhm82iXC7DMAykU2lE1U1IRg5G00B/0MdoOIJSUFCv13lGaNYaCKUekQuvr+Di6jVMRWd5obSbQfxHHJVKhU9Z2atAEiUsbz3BuhxF2+7AHvzkhbIs81y1WoWwXzGwmHhIprfncDU2j+lvc3iXXUNV24OiKtB1nU/INJlM8otn+K5Hy4YY+A7ScgYlvYRSuQRB13TsFOJkM79NtvIxrqKSISVNJ5qmcYrFIlFVlYiiSNhDUahabAOI4zqQZIn7LCcUCgVoShG6op2gFlSw8z/J5XJ8QvrqxLIsvkpBEMB1XJLJZLjPcgK99KGclQOJwlX+pfT8LyRJChKJxLjf77MywnaVQtie0sIx81nuGIeGuADEV+/kAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/53e9f/squadlogFeature.webp 340w,
-/static/5f7ff2080fdc8643ca8f8667537ae40d/0991f/squadlogFeature.webp 680w,
-/static/5f7ff2080fdc8643ca8f8667537ae40d/3f19c/squadlogFeature.webp 1024w&quot;
+          srcset=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/51a8e/squadlogFeature.webp 340w,
+/static/5f7ff2080fdc8643ca8f8667537ae40d/713b7/squadlogFeature.webp 680w,
+/static/5f7ff2080fdc8643ca8f8667537ae40d/701c5/squadlogFeature.webp 1024w&quot;
           sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/a2595/squadlogFeature.png 340w,
-/static/5f7ff2080fdc8643ca8f8667537ae40d/2473e/squadlogFeature.png 680w,
-/static/5f7ff2080fdc8643ca8f8667537ae40d/f935e/squadlogFeature.png 1024w&quot;
+          srcset=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/ad208/squadlogFeature.png 340w,
+/static/5f7ff2080fdc8643ca8f8667537ae40d/a5a26/squadlogFeature.png 680w,
+/static/5f7ff2080fdc8643ca8f8667537ae40d/2faef/squadlogFeature.png 1024w&quot;
           sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/f935e/squadlogFeature.png&quot;
+          src=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/2faef/squadlogFeature.png&quot;
           alt=&quot;AndroidFeature&quot;
           title=&quot;&quot;
-          src=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/f935e/squadlogFeature.png&quot;
+          src=&quot;/static/5f7ff2080fdc8643ca8f8667537ae40d/2faef/squadlogFeature.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
